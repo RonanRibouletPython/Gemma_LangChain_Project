@@ -1,0 +1,21 @@
+# Similarity search and clustering of dense vectors
+faiss-cpu
+# Groq cloud 
+groq
+# LangChain for Gro
+langchain-groq
+# Manipulate PDFs with Python
+PyPDF2
+pypdf
+# Use Gemma with LangChain
+langchain_google_genai
+# LangChain
+langchain
+# Build a simple web app
+streamlit
+# Use open source LangChain modules
+langchain_community
+# Env
+python-dotenv
+# GCP 
+google-cloud-aiplatform>=1.38
